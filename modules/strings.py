@@ -243,10 +243,10 @@ completion_sprite = r"""
 (\   ,.   /_^^)
  \\_//\\_//
   `"`   `"`
+
 """
 completion_text = [
-    "Congrats! You have finished the game!",
-    "You will now be returned to the menu. If you'd like, you can continue to \nvisit the route to encounter wild Pythomon. Otherwise, you may exit the game from the menu screen. Thanks for playing!"
+    "Congrats! You have finished the game! You will now be returned to \nthe Pythodex menu. If you'd like, you can continue to visit the \nroute to encounter wild Pythomon. Otherwise, you may exit the game \nfrom the menu screen. Thanks for playing!"
 ]
 
 quit_text = r"""
